@@ -1,0 +1,14 @@
+p.text_slidder{
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+h3.quem_somos{
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+div#chart_div{
+    width: 100%;
+}
+
